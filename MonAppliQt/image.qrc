@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../../Downloads/MicrosoftTeams-image (1).png</file>
+        <file>../../../Downloads/MicrosoftTeams-image.png</file>
+    </qresource>
+</RCC>
